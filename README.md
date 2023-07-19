@@ -11,17 +11,6 @@ Testar os modelos anteriormente utilizados na revisão bibliográfica utilizando
 
 - [Notion](https://gabby-subway-eb1.notion.site/Modelos-de-classifica-o-para-Classifica-o-do-Algod-o-d757bef1fd3448bc92a8a7dc0a08e7b6?pvs=4)
 
-## Galeria
-
-<img src="matrix/matrix_svm.png" alt="Matriz" style= "height: 50; width: 70"></img>
-<img src="gallery/cross_val_svm.png" alt="Validacao cruzada" style= "height: 50; width: 80"></img>
-<img src="gallery/opt_svm.png" alt="Otimizacao Bayesiana" style= "height: 50; width: 60"></img>
-<img src="gallery/lenet5_sgd_10batch.png" alt="Lenet5 - SGD optimizer" style= "height: 50; width: 65"></img>
-<img src="gallery/lenet5_maxp.png" alt="Lenet5 menos MaxPool2d" style= "height: 50; width: 70"></img>
-<img src="gallery/torch.png" alt="Lenet5 - SGD optimizer" style= "height: 50; width: 70"></img>
-
-
-
 ## Diretório
     /image_agumentation
         data_augmentation.py
