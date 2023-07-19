@@ -13,12 +13,12 @@ Testar os modelos anteriormente utilizados na revisão bibliográfica utilizando
 
 ## Galeria
 
-<img src="matrix/matrix_svm.png" alt="Matriz" style= "height: 100; width: 120"></img>
-<img src="gallery/cross_val_svm.png" alt="Validacao cruzada" style= "height: 100; width: 160"></img>
-<img src="gallery/opt_svm.png" alt="Otimizacao Bayesiana" style= "height: 100; width: 120"></img>
-<img src="gallery/lenet5_sgd_10batch.png" alt="Lenet5 - SGD optimizer" style= "height: 100; width: 130"></img>
-<img src="gallery/lenet5_maxp.png" alt="Lenet5 menos MaxPool2d" style= "height: 100; width: 140"></img>
-<img src="gallery/torch.png" alt="Lenet5 - SGD optimizer" style= "height: 100; width: 140"></img>
+<img src="matrix/matrix_svm.png" alt="Matriz" style= "height: 50; width: 70"></img>
+<img src="gallery/cross_val_svm.png" alt="Validacao cruzada" style= "height: 50; width: 80"></img>
+<img src="gallery/opt_svm.png" alt="Otimizacao Bayesiana" style= "height: 50; width: 60"></img>
+<img src="gallery/lenet5_sgd_10batch.png" alt="Lenet5 - SGD optimizer" style= "height: 50; width: 65"></img>
+<img src="gallery/lenet5_maxp.png" alt="Lenet5 menos MaxPool2d" style= "height: 50; width: 70"></img>
+<img src="gallery/torch.png" alt="Lenet5 - SGD optimizer" style= "height: 50; width: 70"></img>
 
 
 
