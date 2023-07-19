@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__
+logs
+lenet5_l2
+logs_lenet5_dropout_l2
+logs_lenet5
+gallery
+mlpmixer
+venv
