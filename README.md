@@ -61,7 +61,8 @@ image_augmentation.data_augmentation.py
             path,
             num_batches
         )
-            def image_augmentation()
+
+        def image_augmentation():
 
 ```
 ### model_otimization.build_hypermodel
