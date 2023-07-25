@@ -82,7 +82,7 @@ model_otimization.build_hypermodel.py
             path
         )
 
-        def get_log_dir():
+        def __get_log_dir():
         
         def tuner_bayesian_optimization(
 
@@ -93,5 +93,50 @@ model_otimization.build_hypermodel.py
             max_trials = 0,
             epochs = 0
         ):
+
+```
+
+### load_data.load_data
+```python
+    class LoadData:
+        (
+            path = "path",
+            num_batches
+            image_size
+        )
+
+        def __get_class_names():
+
+        def get_data():
+
+```
+### 
+```python
+        class CompileAndFit:
+            (
+                train_Data,
+                valid_Data,
+                optmizer,
+                path = "path/",
+                monitor
+            )
+
+            def __get_steps_per_epoch():
+
+            def __get_lr_schedule():
+            
+            def __get_log_dir():
+            
+            def __get_callbacks():
+            
+            def compile_and_fit(
+                model = keras.model,
+                max_epochs = 0,
+                optimizer = None
+            ):
+            
+            def plot_acc(
+                history
+            ):
 
 ```
