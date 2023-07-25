@@ -6,6 +6,8 @@ Em busca de aperfeiçoar e testar os modelos anteriormente relatados nos trabalh
 ## Metodologias:
 Testar os modelos anteriormente utilizados na revisão bibliográfica utilizando o banco de dados de imagens com classes de algodão no link [IEEE Dataport - Cotton linter class](https://ieee-dataport.org/open-access/different-linter-classes) e buscar validar e avaliar a capacidade de generalização do modelo;
 
+Notebook com exemplo de uso: **example.ipynb**
+
 ## Links relacionados
 - [Miro App](https://miro.com/app/board/uXjVM2i963I=/)
 
@@ -110,7 +112,7 @@ model_otimization.build_hypermodel.py
         def get_data():
 
 ```
-### 
+### compile_and_fit.compile_and_fit 
 ```python
         class CompileAndFit:
             (
